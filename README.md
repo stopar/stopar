@@ -11,11 +11,17 @@ I build Rails app for organizations that want to streamline their operations dig
 - Rekon - A report generator that gets raw data from [Bukku Cloud Accounting](https://bukku.my/) software. 
 
 👨‍💻 I’m currently working on:
-1. imbas - Invoice and receipt reader that automatically categorizes and save it to Bukku Cloud Accounting Software
-2. otoku - A Car app
-3. PIBG - Schools and parents to track PIBG payments and due amount, simply
+- imbas - Invoice and receipt reader that automatically categorizes and save it to Bukku Cloud Accounting Software
+- otoku - A Car app
+- PIBG - Schools and parents to track PIBG payments and due amount, simply
 
-⚡ Would like to colab:
+💰 I provide the following service:
+- Email setup - Setup your organization emails for individuals and groups
+- Website deployment - Deploy your website to a reliable server
+- Generate customize report from your Bukku Accounting software. Reports can be for transparency requirement or daily and monthly reporting
 
-I like to ride bikes 🚴‍♂️ and I would love to build a Pump Track. So if you have a similar interest and live in Nilai, Malaysia, let's get in touch maybe we can get Velo Solutions to build one here 😁   
+⚡ Would like to colab with anyone in the following areas:
+- Teaching Rails
+- Building Pump Tracks in Nilai, Malaysia.
+- Building a maker space or Wood shop in Nilai, Malaysia.
 
