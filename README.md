@@ -16,5 +16,6 @@ I build Rails app for organizations that want to streamline their operations dig
 3. PIBG - Schools and parents to track PIBG payments and due amount, simply
 
 ⚡ Would like to colab:
+
 I like to ride bikes 🚴‍♂️ and I would love to build a Pump Track. So if you have a similar interest and live in Nilai, Malaysia, let's get in touch maybe we can get Velo Solutions to build one here 😁   
 
