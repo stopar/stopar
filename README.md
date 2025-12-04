@@ -20,8 +20,14 @@ I build Rails app for organizations that want to streamline their operations dig
 - Website deployment - Deploy your website to a reliable server
 - Generate customize report from your Bukku Accounting software. Reports can be for transparency requirement or daily and monthly reporting
 
+📆 Past projects:
+- abdyasin.com (defunct) - A Rails app that hosted lecture videos for Ustaz Abd Yasin
+- classic.rma (under maintenance) - Precursor app to TicketFlow. Much of the learnings were improved in TicketFlow
+
 ⚡ Would like to colab with anyone in the following areas:
 - Teaching Rails
 - Building Pump Tracks in Nilai, Malaysia.
 - Building a maker space or Wood shop in Nilai, Malaysia.
+
+Let's get in touch 🤗
 
