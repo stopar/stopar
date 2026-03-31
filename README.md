@@ -11,7 +11,7 @@ I build Rails app for organizations that want to streamline their operations dig
 - Rekon - A report generator that gets raw data from [Bukku Cloud Accounting](https://bukku.my/) software. 
 
 👨‍💻 I’m currently working on:
-- imbas - Invoice and receipt reader that automatically categorizes and save it to Bukku Cloud Accounting Software. You can have a look at [manual](https://docs.geligalabs.com/2/imbas-user-instruction)
+- imbas - Invoice and receipt reader that automatically categorizes and save it to Bukku Cloud Accounting Software. You can have a look at the [manual](https://docs.geligalabs.com/2/imbas-user-instruction) to see how it works.
 - otoku - A Car app
 - TabungKita - Schools and parents to track PIBG payments and due amount. 
 
